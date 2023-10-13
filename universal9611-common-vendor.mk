@@ -145,4 +145,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libskeymaster4device \
+    libcrypto-compat \
     manifest_android.hardware.drm@1.3-service.widevine
